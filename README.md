@@ -10,7 +10,7 @@ Zum analytischen Abgleich kann z.B. [Nolting, 2013] genommen werden.
 
 ## Ausblick
 
-Außer der Translation, gibt es auch die Rotation (Rotor in Motor, Diabolo, etc...), es gibt noch viele weitere Bewegungen, die numerisch berechnet werden können!
+Außer der Translation, gibt es auch die Rotation (Rotor in Motor, Diabolo, etc...), es gibt noch viele weitere Bewegungen, die numerisch berechnet werden können (siehe auch Crash)!
 
 <img src="diabolo.jpg"  height="300"  />
 
