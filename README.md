@@ -16,4 +16,6 @@ Außer der Translation, gibt es auch die Rotation (Rotor in Motor, Diabolo, etc.
 
 ## Literatur
 
-[Nolting, 2013] Nolting, Wolfgang. Grundkurs Theoretische Physik 1: Klassische Mechanik. Springer-Verlag, 2013.
+[Dhafer, 2013](https://www.ccsa.gmu.edu/models/2010-toyota-yaris/) M. Dhafer, et al. Extended validation of the finite element model for the 2010 Toyota Yaris passenger sedan 2013.
+
+[Nolting, 2013](https://link.springer.com/book/10.1007/978-3-662-57584-0) Nolting, Wolfgang. Grundkurs Theoretische Physik 1: Klassische Mechanik. Springer-Verlag, 2013.
