@@ -1,6 +1,6 @@
 # Einführung in die Numerik von Differentialgleichungen (Bewegungsgleichung)
 
-Dieses Repository enthält eine Jupyter Notebook Datei Euler-Verfahren (Vorwärtsdifferenzen) für den senkrechten Wurf nach oben, ohne Dämpfung.
+Dieses Repository enthält eine Jupyter Notebook Datei zum Euler-Verfahren (Vorwärtsdifferenzen) für den senkrechten Wurf nach oben, ohne Dämpfung.
 
 Außerdem enthält es ein Übungsblatt pdf und eine Lösung als pdf dazu.
 
