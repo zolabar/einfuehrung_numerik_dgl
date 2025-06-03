@@ -2,7 +2,7 @@
 
 Dieses Repository enthält eine Jupyter Notebook Datei zum Euler-Verfahren (Vorwärtsdifferenzen) für den senkrechten Wurf nach oben, ohne Dämpfung.
 
-Außerdem enthält es ein Übungsblatt pdf und eine Lösung als pdf dazu.
+Außerdem enthält es ein Übungsblatt pdf (Rekursionsformel mit Dämpfung aufstellen) und eine Lösung als pdf dazu.
 
 Der Code kann gerne um die Dämpfung erweitert werden.
 
