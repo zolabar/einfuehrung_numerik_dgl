@@ -61,7 +61,7 @@ plt.show()
 
 
 index_min = np.argmin(abs(np.array(v)))
-t[index_min]
+print(t[index_min])
 
 
 # ## Weg
@@ -82,4 +82,6 @@ for k, time in enumerate(np.linspace(0, n-1, n, dtype=int)):
 
 scatter(t, x)
 plt.show()
+
+print(np.array(x).max())
 
